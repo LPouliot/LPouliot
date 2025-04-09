@@ -9,9 +9,9 @@
 - 💬 Ask me about **Digital Forensics**.
 
 ## My Skills 🛠️
-- **Programming Languages**: HTML, Python, PHP, 
-- **Tools & Frameworks**: EnCase, AXIOM, Chain of Custody, Report Writing, AIM, Oxygen, FTK Imager, Docker Containers, Virtualization, Packet Tracer
-- **Soft Skills**: Communication, Troubleshooting, Traveling, Self Reliance
+- 🖥️ **Programming Languages**: HTML, Python, PHP, 
+- ✏️ **Tools & Frameworks**: EnCase, AXIOM, Chain of Custody, Report Writing, AIM, Oxygen, FTK Imager, Docker Containers, Virtualization, Packet Tracer
+- 💬 **Soft Skills**: Communication, Troubleshooting, Traveling, Self Reliance
 
 ## Hobbies & Interests 🎨
 - 📚 Reading Fantasy
