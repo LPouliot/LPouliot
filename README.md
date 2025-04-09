@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Lily Pouliot! 👋
 
 ![Profile Banner](https://img.freepik.com/premium-photo/cute-guinea-pig-yellow-wall-background-popular-household-pet-banner-copy-space_369656-2035.jpg?w=360)
 
