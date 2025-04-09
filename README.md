@@ -1,6 +1,6 @@
 # Hi there, I'm Lily Pouliot! 👋
 
-![Profile Banner](https://img.freepik.com/premium-photo/cute-guinea-pig-yellow-wall-background-popular-household-pet-banner-copy-space_369656-2035.jpg?w=360)
+![Profile Banner](https://i.pinimg.com/originals/44/09/fd/4409fdf78127f3b5396d182703deb415.gif)
 
 ## About Me
 - 🔭 I’m currently working on **Surviving April**.
