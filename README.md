@@ -18,5 +18,3 @@
 - 🎮 PC Games
 - 🥾 Mountain Hiking 
 - 🐹 Guinea Pigs
-
-![image](https://media.discordapp.net/attachments/1243393339466977360/1359613366087450714/IMG_9106.jpg?ex=67f81e1e&is=67f6cc9e&hm=0aba36cb6ebc4d2aa49e22eb1782fec87916f2e91f88f4424812236c1fd9d20c&=&format=webp&width=1299&height=975)
