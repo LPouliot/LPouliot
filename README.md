@@ -3,7 +3,7 @@
 ![Profile Banner](https://i.pinimg.com/originals/44/09/fd/4409fdf78127f3b5396d182703deb415.gif)
 
 ## About Me
-- 🔭 I’m currently working on **Surviving the Summer**.
+- 🔭 I’m currently working on **Senior Year**.
 - 🌱 I’m learning **Report Writing and SSH Tunneling**.
 - 🎯 Goals: **Perfecting Archery and making a Discord Bot**.
 - 💬 Ask me about **Digital Forensics**.
