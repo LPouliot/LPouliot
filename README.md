@@ -4,14 +4,14 @@
 
 ## About Me
 - 🔭 I’m currently working on **Senior Year**.
-- 🌱 I’m learning **Report Writing and SSH Tunneling**.
-- 🎯 Goals: **Perfecting Archery and making a Discord Bot**.
-- 💬 Ask me about **Digital Forensics**.
+- 🌱 I’m learning **Poweshell Scripting and Malware Anaylsis**.
+- 🎯 Goals: **Guineapig Training and making a Discord Bot**.
+- 💬 Ask me about **Digital Forensics!!**.
 
 ## My Skills 🛠️
-- 🖥️ **Programming Languages**: HTML, Python, PHP, 
+- 🖥️ **Programming Languages**: HTML, Python, PHP, PowerShell, Bash
 - ✏️ **Tools & Frameworks**: EnCase, AXIOM, Chain of Custody, Report Writing, AIM, Oxygen, FTK Imager, Docker Containers, Virtualization, Packet Tracer
-- 💬 **Soft Skills**: Communication, Troubleshooting, Traveling, Self Reliance
+- 💬 **Soft Skills**: Communication, Troubleshooting, Traveling, Self-Reliance
 
 ## Hobbies & Interests 🎨
 - 📚 Reading Fantasy
