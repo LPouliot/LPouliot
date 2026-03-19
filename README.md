@@ -4,7 +4,7 @@
 
 ## About Me
 - 🔭 I’m currently working on **Senior Year**.
-- 🌱 I’m learning **Poweshell Scripting and Malware Anaylsis**.
+- 🌱 I’m learning **Poweshell and Ansible Scripting**.
 - 🎯 Goals: **Guineapig Training and making a Discord Bot**.
 - 💬 Ask me about **Digital Forensics!!**.
 
